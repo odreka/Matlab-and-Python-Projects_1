@@ -1,2 +1,2 @@
-# Projects-2023
-Some projects done in 2023. Software used: MATLAB, Python, Autodesk Fusion 360, Ansys. Topics: Computer Aided Design (CAD)-Orthopaedic Implants, Finite Element Method (FEM), Computational Fluid Dynamics (CFD), Mechanics, Fluid Mechanics.
+# Matlab-and-Python-Projects_1
+Some MATLAB and Python projects done on Fluid Dynamics (Lattice Boltzmann Simulation), Shear Force, Bending Moment and Turning Moment.
